@@ -1,0 +1,13 @@
+{
+  "args_summary": "delete_file(path=res://cube_mesh.tres)",
+  "files": [
+    {
+      "backup": "res://addons/godot_mcp/cache/undo/entry_000015/files/cube_mesh.tres",
+      "kind": "deleted",
+      "path": "res://cube_mesh.tres"
+    }
+  ],
+  "id": "000015",
+  "timestamp": 1792759036.0,
+  "tool": "delete_file"
+}

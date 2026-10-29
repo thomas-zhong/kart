@@ -1,0 +1,13 @@
+{
+  "args_summary": "write_file(path=res://cube_mesh.tres)",
+  "files": [
+    {
+      "backup": "res://addons/godot_mcp/cache/undo/entry_000010/files/cube_mesh.tres",
+      "kind": "snapshot",
+      "path": "res://cube_mesh.tres"
+    }
+  ],
+  "id": "000010",
+  "timestamp": 1792758560.0,
+  "tool": "write_file"
+}

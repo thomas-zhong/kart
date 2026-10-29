@@ -1,0 +1,11 @@
+[gd_scene load_steps=3 format=3 uid="uid://njf14ae33g2l"]
+
+[ext_resource type="Script" uid="uid://cht7adrqe6i4u" path="res://rotating_cube.gd" id="1_jxk6g"]
+
+[sub_resource type="BoxMesh" id="BoxMesh_rot1"]
+
+[node name="pen_world" type="Node"]
+
+[node name="RotatingCube" type="MeshInstance3D" parent="."]
+mesh = SubResource("BoxMesh_rot1")
+script = ExtResource("1_jxk6g")

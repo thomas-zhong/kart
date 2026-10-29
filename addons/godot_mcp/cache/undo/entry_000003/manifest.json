@@ -1,0 +1,12 @@
+{
+  "args_summary": "create_script(path=res://rotating_cube.gd)",
+  "files": [
+    {
+      "kind": "created",
+      "path": "res://rotating_cube.gd"
+    }
+  ],
+  "id": "000003",
+  "timestamp": 1792758382.0,
+  "tool": "create_script"
+}

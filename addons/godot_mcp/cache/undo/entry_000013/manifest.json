@@ -1,0 +1,13 @@
+{
+  "args_summary": "remove_node(scene_path=res://pen_world.tscn, node_path=RotatingCube)",
+  "files": [
+    {
+      "backup": "res://addons/godot_mcp/cache/undo/entry_000013/files/pen_world.tscn",
+      "kind": "snapshot",
+      "path": "res://pen_world.tscn"
+    }
+  ],
+  "id": "000013",
+  "timestamp": 1792758966.0,
+  "tool": "remove_node"
+}

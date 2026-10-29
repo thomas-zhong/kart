@@ -1,0 +1,12 @@
+{
+  "args_summary": "write_file(path=res://cube_mesh.tres)",
+  "files": [
+    {
+      "kind": "created",
+      "path": "res://cube_mesh.tres"
+    }
+  ],
+  "id": "000007",
+  "timestamp": 1792758477.0,
+  "tool": "write_file"
+}

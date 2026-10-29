@@ -1,0 +1,13 @@
+{
+  "args_summary": "delete_file(path=res://rotating_cube.gd)",
+  "files": [
+    {
+      "backup": "res://addons/godot_mcp/cache/undo/entry_000016/files/rotating_cube.gd",
+      "kind": "deleted",
+      "path": "res://rotating_cube.gd"
+    }
+  ],
+  "id": "000016",
+  "timestamp": 1792759061.0,
+  "tool": "delete_file"
+}

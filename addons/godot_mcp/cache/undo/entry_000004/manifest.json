@@ -1,0 +1,13 @@
+{
+  "args_summary": "add_node(scene_path=res://pen_world.tscn, node_name=RotatingCube, node_type=MeshInstance3D)",
+  "files": [
+    {
+      "backup": "res://addons/godot_mcp/cache/undo/entry_000004/files/pen_world.tscn",
+      "kind": "snapshot",
+      "path": "res://pen_world.tscn"
+    }
+  ],
+  "id": "000004",
+  "timestamp": 1792758389.0,
+  "tool": "add_node"
+}

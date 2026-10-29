@@ -1,0 +1,13 @@
+{
+  "args_summary": "call_method(scene_path=res://pen_world.tscn, node_path=RotatingCube, method=set_mesh)",
+  "files": [
+    {
+      "backup": "res://addons/godot_mcp/cache/undo/entry_000011/files/pen_world.tscn",
+      "kind": "snapshot",
+      "path": "res://pen_world.tscn"
+    }
+  ],
+  "id": "000011",
+  "timestamp": 1792758567.0,
+  "tool": "call_method"
+}

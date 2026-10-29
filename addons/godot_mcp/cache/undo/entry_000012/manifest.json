@@ -1,0 +1,13 @@
+{
+  "args_summary": "write_file(path=res://pen_world.tscn)",
+  "files": [
+    {
+      "backup": "res://addons/godot_mcp/cache/undo/entry_000012/files/pen_world.tscn",
+      "kind": "snapshot",
+      "path": "res://pen_world.tscn"
+    }
+  ],
+  "id": "000012",
+  "timestamp": 1792758595.0,
+  "tool": "write_file"
+}
